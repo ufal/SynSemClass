@@ -24,3 +24,7 @@ This is the central repository for the SynSemClass project, which aggregates the
 - This central repository is licenced under the [Mozilla Public License, version 2.0](LICENSE).
 - The [data](http://hdl.handle.net/11234/1-5230) is released under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
+## Repositories
+
+## Acknowledgements
+
