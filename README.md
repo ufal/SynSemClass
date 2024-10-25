@@ -24,7 +24,27 @@ This is the central repository for the SynSemClass project, which aggregates the
 - This central repository is licenced under the [Mozilla Public License, version 2.0](LICENSE).
 - The [data](http://hdl.handle.net/11234/1-5230) is released under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-## Repositories
+## How to Get this Repository
+
+You can either clone the individual repository/repositories by using:
+
+```
+TODO example
+```
+
+Or you can clone the entire project, including the related repositories as submodules:
+
+```sh
+git clone --recurse-submodules https://github.com/ufal/SynSemClass/
+```
+
+## Repositories Related to SynSemClass
 
 ## Acknowledgements
+
+## Contact
+
+- [Zdeňka Urešová](https://ufal.mff.cuni.cz/zdenka-uresova) `uresova@ufal.mff.cuni.cz` is in charge of the SynSemClass project,
+- [Jan Hajič](https://ufal.mff.cuni.cz/jan-hajic) `hajic@ufal.mff.cuni.cz` is the PI of LINDAT/CLARIAH-CZ and of the LuSyD project and coordinates the expansion work on the lexicon,
+- [Jana Straková](https://ufal.mff.cuni.cz/jana-strakova) `strakova@ufal.mff.cuni.cz` is in charge of this repository.
 
