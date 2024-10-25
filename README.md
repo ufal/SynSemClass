@@ -20,9 +20,13 @@ This is the central repository for the SynSemClass project, which aggregates the
 
 ## Licence
 
-- Please see the individual repositories for licence information.
-- This central repository is licenced under the [Mozilla Public License, version 2.0](LICENSE).
-- The [data](http://hdl.handle.net/11234/1-5230) is released under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Copyright 2024 Institute of Formal and Applied Linguistics, Faculty of Mathematics and Physics, Charles University, Czech Republic.
+
+This Source Code Form is subject to the terms of the [Mozilla Public License, v. 2.0](LICENSE). If a copy of the MPL was not distributed with this file, You can obtain one at [http://mozilla.org/MPL/2.0/](http://mozilla.org/MPL/2.0/).
+
+Please see the individual repositories for additional licensing.
+
+The [data](http://hdl.handle.net/11234/1-5230) is released under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ## How to Get this Repository
 
