@@ -40,6 +40,8 @@ git clone --recurse-submodules https://github.com/ufal/SynSemClass/
 
 ## Repositories under SynSemClass
 
+- [SynSemClassSearch](https://github.com/ufal/SynSemClassSearch).
+
 ## Acknowledgements
 
 ## Contact
