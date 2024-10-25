@@ -28,7 +28,7 @@ Please see the individual repositories for additional licensing.
 
 The [data](http://hdl.handle.net/11234/1-5230) is released under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-## How to Get this Repository
+## How to Get this Source Code
 
 You can either clone the related repository/repositories individually, for example, to clone just the [SynSemClassSearch](https://github.com/ufal/SynSemClassSearch):
 
