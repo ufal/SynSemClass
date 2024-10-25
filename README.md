@@ -38,7 +38,7 @@ Or you can clone the entire project, including the related repositories as submo
 git clone --recurse-submodules https://github.com/ufal/SynSemClass/
 ```
 
-## Repositories Related to SynSemClass
+## Repositories under SynSemClass
 
 ## Acknowledgements
 
