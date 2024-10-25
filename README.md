@@ -10,5 +10,6 @@ This is the central repository for the SynSemClass project, which aggregates the
 
 - [the browser](https://lindat.mff.cuni.cz/services/SynSemClass50/),
 - [the search tool](https://lindat.mff.cuni.cz/services/SynSemClassSearch/?version=synsemclass5.0),
-- [data (ZIP/XML)](http://hdl.handle.net/11234/1-5230).
+- [data (ZIP/XML)](http://hdl.handle.net/11234/1-5230),
+- [documentation, publications](https://ufal.mff.cuni.cz/synsemclass).
 
