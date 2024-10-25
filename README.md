@@ -18,7 +18,7 @@ This is the central repository for the SynSemClass project, which aggregates the
 - Please see the individual repositories for their corresponding publications for citations.
 - Or, please select one of the [publications from this list on the documentation page](https://ufal.mff.cuni.cz/synsemclass) which is most relevant to your work.
 
-## Licence
+## License
 
 Copyright 2024 Institute of Formal and Applied Linguistics, Faculty of Mathematics and Physics, Charles University, Czech Republic.
 
