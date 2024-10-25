@@ -45,6 +45,8 @@ git clone --recurse-submodules https://github.com/ufal/SynSemClass/
 ## Repositories under SynSemClass
 
 - [SynSemClassSearch](https://github.com/ufal/SynSemClassSearch).
+- [synsemclass_ml](https://github.com/strakova/synsemclass_ml): This repository contains code for machine learning for the SynSemClass project.
+It also accompanies [Extending an Event-type Ontology: Adding Verbs and Classes using Fine-tuned LLMs Suggestions](https://aclanthology.org/2023.law-1.9/).
 
 ## Acknowledgements
 
