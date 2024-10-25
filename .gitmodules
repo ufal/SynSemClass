@@ -1,0 +1,3 @@
+[submodule "SynSemClassSearch"]
+	path = SynSemClassSearch
+	url = git@github.com:ufal/SynSemClassSearch
