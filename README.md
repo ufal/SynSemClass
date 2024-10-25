@@ -13,3 +13,14 @@ This is the central repository for the SynSemClass project, which aggregates the
 - [data (ZIP/XML)](http://hdl.handle.net/11234/1-5230),
 - [documentation, publications](https://ufal.mff.cuni.cz/synsemclass).
 
+## How to Cite Us
+
+- Please see the individual repositories for their corresponding publications for citations.
+- Or, please select one of the [publications from this list on the documentation page](https://ufal.mff.cuni.cz/synsemclass) which is most relevant to your work.
+
+## Licence
+
+- Please see the individual repositories for licence information.
+- This central repository is licenced under the [Mozilla Public License, version 2.0](LICENSE).
+- The [data](http://hdl.handle.net/11234/1-5230) is released under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
