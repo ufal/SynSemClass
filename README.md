@@ -26,13 +26,13 @@ This is the central repository for the SynSemClass project, which aggregates the
 
 ## How to Get this Repository
 
-You can either clone the individual repository/repositories by using:
+You can either clone the related repository/repositories individually, for example, to clone just the [SynSemClassSearch](https://github.com/ufal/SynSemClassSearch):
 
-```
-TODO example
+```sh
+git clone https://github.com/ufal/SynSemClassSearch
 ```
 
-Or you can clone the entire project, including the related repositories as submodules:
+Or you can clone the entire project, including all the related repositories as submodules, each in a subdirectory:
 
 ```sh
 git clone --recurse-submodules https://github.com/ufal/SynSemClass/
