@@ -62,7 +62,7 @@ You can either clone the related repository/repositories individually, for examp
 git clone https://github.com/ufal/SynSemClassSearch
 ```
 
-Or you can clone the entire project, including all the related repositories as submodules, each in a subdirectory:
+Or you can clone the entire project, including all the related repositories as submodules, each in a subdirectory (please note the `--resurse_submodules` which adds the submodules into subdirectories):
 
 ```sh
 git clone --recurse-submodules https://github.com/ufal/SynSemClass/
