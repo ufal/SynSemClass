@@ -16,7 +16,33 @@ This is the central repository for the SynSemClass project, which aggregates the
 ## How to Cite Us
 
 - Please see the individual repositories for their corresponding publications for citations.
-- Or, please select one of the [publications from this list on the documentation page](https://ufal.mff.cuni.cz/synsemclass) which is most relevant to your work.
+- Or, please select one of the [publications from this list on the documentation page](https://ufal.mff.cuni.cz/synsemclass) most relevant to your work.
+- If unsure, the canonical publication for this project is [Urešová et al. (2020)](https://aclanthology.org/2020.globalex-1.2/):
+
+```
+@inproceedings{uresova-etal-2020-synsemclass,
+    title = "{S}yn{S}em{C}lass Linked Lexicon: Mapping Synonymy between Languages",
+    author = "Uresova, Zdenka  and
+      Fucikova, Eva  and
+      Hajicova, Eva  and
+      Hajic, Jan",
+    editor = "Kernerman, Ilan  and
+      Krek, Simon  and
+      McCrae, John P.  and
+      Gracia, Jorge  and
+      Ahmadi, Sina  and
+      Kabashi, Besim",
+    booktitle = "Proceedings of the 2020 Globalex Workshop on Linked Lexicography",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2020.globalex-1.2",
+    pages = "10--19",
+    language = "English",
+    ISBN = "979-10-95546-46-7",
+}
+```
 
 ## License
 
