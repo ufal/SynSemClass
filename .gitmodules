@@ -1,9 +1,9 @@
 [submodule "SynSemClassSearch"]
 	path = SynSemClassSearch
-	url = git@github.com:ufal/SynSemClassSearch
+	url = https://github.com/ufal/SynSemClassSearch
 [submodule "SynSemClassML"]
 	path = SynSemClassML
-	url = git@github.com:ufal/SynSemClassML
+	url = https://github.com/ufal/SynSemClassML
 [submodule "SynSemClassPipeline"]
 	path = SynSemClassPipeline
-	url = git@github.com:ufal/SynSemClassPipeline
+	url = https://github.com/ufal/SynSemClassPipeline
