@@ -4,3 +4,6 @@
 [submodule "synsemclass_ml"]
 	path = synsemclass_ml
 	url = git@github.com:strakova/synsemclass_ml
+[submodule "SynSemClassPipeline"]
+	path = SynSemClassPipeline
+	url = git@github.com:ufal/SynSemClassPipeline
