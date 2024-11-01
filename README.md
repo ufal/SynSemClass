@@ -76,7 +76,7 @@ git clone --recurse-submodules https://github.com/ufal/SynSemClass/
 
 ## Acknowledgements
 
-This work has been supported by the Grant Agency of the Czech Republic under the EXPRO program as project “LUSyD” (project No. GX20-16819X). The work described herein has also been using data provided by the [LINDAT/CLARIAH-CZ Research Infrastructure](https://lindat.cz), supported by the Ministry of Education, Youth and Sports of the Czech Republic (Project No. LM2023062).
+This work has been supported by the Grant Agency of the Czech Republic under the EXPRO program as project “LUSyD” (project No. GX20-16819X), and by the UMR project No. LUAUS23283 supported by the Czech Ministry of Education, Youth and Sports of the Czech Republic (MŠMT ČR). It has used data provided by the [LINDAT/CLARIAH-CZ Research Infrastructure](https://lindat.cz), Projects No. LM2018101 and LM2023062, supported by the Ministry of Education, Youth and Sports of the Czech Republic (MŠMT ČR).
 
 ## Contact
 
