@@ -7,3 +7,6 @@
 [submodule "SynSemClassPipeline"]
 	path = SynSemClassPipeline
 	url = https://github.com/ufal/SynSemClassPipeline
+[submodule "SynSemClassMulti"]
+	path = SynSemClassMulti
+	url = https://github.com/fucikova/SynSemClassMulti

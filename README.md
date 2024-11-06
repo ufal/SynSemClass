@@ -71,6 +71,7 @@ git clone --recurse-submodules https://github.com/ufal/SynSemClass/
 ## Repositories under SynSemClass
 
 - [SynSemClassML](https://github.com/ufal/SynSemClassML): machine learning for the SynSemClass project. Also accompanies [Straková et al. (2023)](https://aclanthology.org/2023.law-1.9/).
+- [SynSemClassMulti](https://github.com/fucikova/SynSemClassMulti): a tool for manual annotation of SynSemClass lexicons - version with the separate lexicon for every language.
 - [SynSemClassPipeline](https://github.com/ufal/SynSemClassPipeline): a toolchain for pre-annotation of a new language in a semantic ontology.
 - [SynSemClassSearch](https://github.com/ufal/SynSemClassSearch): a [Search Tool](https://lindat.mff.cuni.cz/services/SynSemClassSearch/) for the SynSemClass ontology.
 
